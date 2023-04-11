@@ -122,7 +122,7 @@ cognite: # kwargs to pass to the CogniteClient, Environment variable format: ${E
     host: ${BOOTSTRAP_CDF_HOST}
     project: ${BOOTSTRAP_CDF_PROJECT}
     #
-    # AAD IdP login credentials:
+    # AAD IdP login credentials for review:
     #
     idp-authentication:
         client-id: ${BOOTSTRAP_IDP_CLIENT_ID}
