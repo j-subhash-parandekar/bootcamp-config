@@ -1,8 +1,8 @@
 {
     "__inputs": [
       {
-        "name": "DS_BOOTCAMP-03-TEST-ALL-OWNER-APP",
-        "label": "bootcamp-03-test-all-owner-app",
+        "name": "DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP",
+        "label": "bootcamp-03-all-user-grafana-app",
         "description": "",
         "type": "datasource",
         "pluginId": "cognitedata-datasource",
@@ -68,7 +68,7 @@
       {
         "datasource": {
           "type": "cognitedata-datasource",
-          "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+          "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
         },
         "fieldConfig": {
           "defaults": {
@@ -139,7 +139,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -213,7 +213,7 @@
       {
         "datasource": {
           "type": "cognitedata-datasource",
-          "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+          "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
         },
         "fieldConfig": {
           "defaults": {
@@ -312,7 +312,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -399,7 +399,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -474,7 +474,7 @@
       {
         "datasource": {
           "type": "cognitedata-datasource",
-          "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+          "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
         },
         "fieldConfig": {
           "defaults": {
@@ -545,7 +545,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -619,7 +619,7 @@
       {
         "datasource": {
           "type": "cognitedata-datasource",
-          "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+          "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
         },
         "description": "",
         "fieldConfig": {
@@ -768,7 +768,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -855,7 +855,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -943,7 +943,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -1031,7 +1031,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -1119,7 +1119,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -1194,7 +1194,7 @@
       {
         "datasource": {
           "type": "cognitedata-datasource",
-          "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+          "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
         },
         "fieldConfig": {
           "defaults": {
@@ -1206,8 +1206,7 @@
               "mode": "absolute",
               "steps": [
                 {
-                  "color": "green",
-                  "value": null
+                  "color": "green"
                 },
                 {
                   "color": "red",
@@ -1278,7 +1277,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -1352,7 +1351,7 @@
       {
         "datasource": {
           "type": "cognitedata-datasource",
-          "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+          "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
         },
         "description": "",
         "fieldConfig": {
@@ -1395,8 +1394,7 @@
               "mode": "absolute",
               "steps": [
                 {
-                  "color": "green",
-                  "value": null
+                  "color": "green"
                 },
                 {
                   "color": "red",
@@ -1471,7 +1469,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -1558,7 +1556,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -1646,7 +1644,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -1721,7 +1719,7 @@
       {
         "datasource": {
           "type": "cognitedata-datasource",
-          "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+          "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
         },
         "fieldConfig": {
           "defaults": {
@@ -1733,8 +1731,7 @@
               "mode": "absolute",
               "steps": [
                 {
-                  "color": "green",
-                  "value": null
+                  "color": "green"
                 },
                 {
                   "color": "red",
@@ -1792,7 +1789,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -1866,7 +1863,7 @@
       {
         "datasource": {
           "type": "cognitedata-datasource",
-          "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+          "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
         },
         "fieldConfig": {
           "defaults": {
@@ -1908,8 +1905,7 @@
               "mode": "absolute",
               "steps": [
                 {
-                  "color": "green",
-                  "value": null
+                  "color": "green"
                 },
                 {
                   "color": "red",
@@ -1984,7 +1980,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -2071,7 +2067,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -2159,7 +2155,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -2247,7 +2243,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -2322,7 +2318,7 @@
       {
         "datasource": {
           "type": "cognitedata-datasource",
-          "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+          "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
         },
         "fieldConfig": {
           "defaults": {
@@ -2364,8 +2360,7 @@
               "mode": "absolute",
               "steps": [
                 {
-                  "color": "green",
-                  "value": null
+                  "color": "green"
                 },
                 {
                   "color": "red",
@@ -2417,7 +2412,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -2504,7 +2499,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -2592,7 +2587,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -2680,7 +2675,7 @@
             },
             "datasource": {
               "type": "cognitedata-datasource",
-              "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+              "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
             },
             "eventQuery": {
               "activeAtTimeRange": true,
@@ -2866,7 +2861,7 @@
           "current": {},
           "datasource": {
             "type": "cognitedata-datasource",
-            "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+            "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
           },
           "definition": "assets{parentExternalIds=['${site}_production']}",
           "hide": 0,
@@ -2892,7 +2887,7 @@
           "current": {},
           "datasource": {
             "type": "cognitedata-datasource",
-            "uid": "${DS_BOOTCAMP-03-TEST-ALL-OWNER-APP}"
+            "uid": "${DS_BOOTCAMP-03-ALL-USER-GRAFANA-APP}"
           },
           "definition": "assets{parentIds=[$production_line]}",
           "hide": 0,
