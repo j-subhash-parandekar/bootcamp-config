@@ -1,10 +1,2 @@
-COGNITE_TOKEN_URL=https://login.microsoftonline.com/e0793d39-0939-496d-b129-198edd916feb/oauth2/v2.0/token
-COGNITE_CLIENT_ID=c1f94aa4-bf73-4c93-93d8-d4bc58df0627
-COGNITE_CLIENT_SECRET=
-COGNITE_TOKEN_SCOPES=https://api.cognitedata.com/.default
-COGNITE_CLIENT_NAME=3W
-COGNITE_PROJECT=accenture-tiger-training
-COGNITE_BASE_URL=https://api.cognitedata.com
-
 
 
